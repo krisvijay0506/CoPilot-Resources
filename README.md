@@ -19,3 +19,6 @@ Useful Prompts
 
 Calculate number of token in a text using open ai
 <img width="535" height="248" alt="image" src="https://github.com/user-attachments/assets/364eb5cc-105f-48f0-b5da-03150949e64b" />
+
+<img width="535" height="144" alt="image" src="https://github.com/user-attachments/assets/a4669dff-4c5e-4267-852e-050bbbc97b55" />
+
