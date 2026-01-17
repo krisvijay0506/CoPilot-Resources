@@ -14,3 +14,6 @@ Useful Prompts
 -------------------------------------
 # Teach me about string manipulation in Python.Ask me multiple answer questions to teach me.If I provide a wrong answer give me a hint
 <img width="480" height="191" alt="image" src="https://github.com/user-attachments/assets/b787ef4d-157f-4fce-9109-373a5295a2a8" />
+#Inserting text from an image to .md file
+<img width="553" height="251" alt="image" src="https://github.com/user-attachments/assets/86b1ed47-11c3-482f-a68e-df3b2251e636" />
+
